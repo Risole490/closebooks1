@@ -1,0 +1,82 @@
+body {
+    background-color: #CCCCCC;
+    background-image: url(../../Images/books.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.imghome {
+    width: 15%;
+    height: 15%;
+    margin-left: 41%;
+}
+
+.title {
+    margin-left: 44%;
+    font-size: 50px;
+}
+
+.frasetitle {
+    margin-left: 43%;
+
+}
+
+.formCad {
+    position: absolute;
+    margin-left: 17%;
+    margin-top: 1%;
+    background-color: #f8f9fa;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 20px;
+    height: 390px;
+}
+
+.formCad label {
+    font-size: 20px;
+}
+
+.formCad h6 {
+    margin-left: 25%;
+    font-size: 20px;
+}
+
+.btnCad {
+    position: absolute;
+    margin-left: 28%;
+    margin-top: 18%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.lgnFrm {
+    position: absolute;
+    margin-left: 59%;
+    bottom: 22%;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    height: 280px;
+}
+
+.lgnFrm h6 {
+    font-size: 20px;
+}
+
+.btnLogin {
+    position: absolute;
+    margin-left: 69%;
+    margin-top: 11%;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.frase {
+    font-size: 25px;
+    margin-left: 1%;
+    text-align: center;
+    color: azure;
+}
